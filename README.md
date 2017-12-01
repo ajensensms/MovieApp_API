@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+December 1, 2017
 
 ### Student Name:  
-(First and Last Name)
+Annette Jensen
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Using DOM, Jquery, and AJAX I helped create a search engine.
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Learned how to use an API
+2. Learned how to use AJAX
+3. Learned how to use JQUERY
