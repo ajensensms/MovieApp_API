@@ -13,8 +13,7 @@ Annette Jensen
 Using DOM, Jquery, and AJAX I helped create a search engine.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://ajensensms.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
 1. Learned how to use an API
